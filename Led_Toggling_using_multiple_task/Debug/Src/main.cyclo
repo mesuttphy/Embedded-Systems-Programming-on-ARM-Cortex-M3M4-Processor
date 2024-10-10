@@ -1,0 +1,4 @@
+../Src/main.c:7:6:delay	2
+../Src/main.c:12:6:led_init_all	1
+../Src/main.c:43:6:led_on	1
+../Src/main.c:50:6:led_off	1
